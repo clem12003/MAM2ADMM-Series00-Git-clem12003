@@ -15,3 +15,6 @@ I enjoy solving problems and seeing results.
 I want to become more confident in version control to collaborate with others smoothly.  
 Exploring both Python and R will let me compare approaches and choose the best tool for each task.  
 Finally, mastering Git will allow me to share my work and contribute to real projects with confidence.
+
+# add an image from my computer
+![image](images/my-image.JPG)
