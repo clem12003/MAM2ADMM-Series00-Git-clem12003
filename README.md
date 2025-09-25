@@ -16,5 +16,12 @@ I want to become more confident in version control to collaborate with others sm
 Exploring both Python and R will let me compare approaches and choose the best tool for each task.  
 Finally, mastering Git will allow me to share my work and contribute to real projects with confidence.
 
-# add an image from my computer
+# Add a local image to the readme file
 ![image](images/my-image.JPG)
+
+# Summary of the assignement
+I learned the basics of Git and GitHub, how to create repositories and branches.   
+I learned how to edit and update a README file, and to include images from the web or from my computer.  
+I understood the importance of organizing my repository with folders.  
+
+This work took me about 1 hours to complete.
